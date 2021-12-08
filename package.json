@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/atikur-rabbi.lwc-table-basic3",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 0vLjffWgQZgp4iAo3Qno --open"
+  }
+}
